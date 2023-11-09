@@ -27,7 +27,7 @@
     "@vue/test-utils": "1.0.0-beta.31",
     "babel-eslint": "^10.1.0",
     "chai": "^4.1.2",
-    "chromedriver": "81",
+    "chromedriver": "119",
     "copy-webpack-plugin": "^5.1.1",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
